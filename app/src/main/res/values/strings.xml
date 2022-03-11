@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FIUNI First App 2</string>
+    <string name="mainText">Hola Mundo!</string>
+    <string name="greeting">Saludar</string>
+    <string name="greetingOut">Saludar Fuera</string>
+</resources>
